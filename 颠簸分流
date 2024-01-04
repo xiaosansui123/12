@@ -32,3 +32,8 @@ IP-CIDR6,2a0a:f280::/32,no-resolve
 PROCESS-NAME,nekox.messenger
 PROCESS-NAME,org.telegram.messenger
 PROCESS-NAME,telegram-desktop
+ip-asn, 62041, direct
+ip-asn, 62014, direct
+ip-asn, 59930, direct
+ip-asn, 44907, direct
+ip-asn, 211157, direct
